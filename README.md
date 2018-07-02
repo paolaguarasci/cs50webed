@@ -1,1 +1,1 @@
-# cs50webed
+# CS50 Web Edition
