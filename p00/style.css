@@ -1,0 +1,59 @@
+html, body {
+    font-family: 'EB Garamond', serif;
+    font-size: 24px;
+        color: white;
+    line-height: 1.5;
+    text-align: center;
+    background: url("https://res.cloudinary.com/dyhtvyofp/image/upload/v1530733616/stanley-dai-242205-unsplash.jpg") #39403D no-repeat center center fixed;
+    background-size: cover;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Share Tech Mono', monospace;
+}
+h1 {
+    font-size: 4rem;
+    font-weight: 800;
+    line-height: 1.5;
+    
+}
+main {
+        background: rgba(3,3,3,0.7);
+}
+header {
+    margin: 0;
+    padding: 0;
+    display: flex;
+/*    background: url("https://res.cloudinary.com/dyhtvyofp/image/upload/v1530733616/stanley-dai-242205-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    background: rgba(3,3,3,0.7);
+}
+
+img {
+    max-width: 100%;
+    padding: 1.5rem;
+}
+
+footer {
+    text-align: center;
+    font-weight: 300;
+    background: rgba(3,3,3,0.7);
+}
+footer > p {
+    font-size: 0.7rem;
+}
+
+#tools {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.icon-skill {
+    font-size: 3em;
+    padding: 1rem;
+
+}
